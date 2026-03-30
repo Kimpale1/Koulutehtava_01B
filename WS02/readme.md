@@ -1,1 +1,0 @@
-Tämä on verkkosivujen kehittämisen WS02 työpajan kansio
